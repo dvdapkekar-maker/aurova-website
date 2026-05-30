@@ -19,6 +19,41 @@ export default function DryFruitWebsite() {
       name: 'Premium Dates',
       image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=1200&auto=format&fit=crop',
       desc: 'Naturally sweet dates sourced for timeless purity.'
+    },
+    {
+      name: 'Premium Dates',
+      image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=1200&auto=format&fit=crop',
+      desc: 'Naturally sweet dates sourced for timeless purity.'
+    },
+    {
+      name: 'Premium Dates',
+      image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=1200&auto=format&fit=crop',
+      desc: 'Naturally sweet dates sourced for timeless purity.'
+    },
+    {
+      name: 'Premium Dates',
+      image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=1200&auto=format&fit=crop',
+      desc: 'Naturally sweet dates sourced for timeless purity.'
+    },
+    {
+      name: 'Premium Dates',
+      image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=1200&auto=format&fit=crop',
+      desc: 'Naturally sweet dates sourced for timeless purity.'
+    },
+    {
+      name: 'Premium Dates',
+      image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=1200&auto=format&fit=crop',
+      desc: 'Naturally sweet dates sourced for timeless purity.'
+    },
+    {
+      name: 'Premium Dates',
+      image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=1200&auto=format&fit=crop',
+      desc: 'Naturally sweet dates sourced for timeless purity.'
+    },
+    {
+      name: 'Premium Dates',
+      image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=1200&auto=format&fit=crop',
+      desc: 'Naturally sweet dates sourced for timeless purity.'
     }
   ];
 
